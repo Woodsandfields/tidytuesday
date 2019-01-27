@@ -2,6 +2,11 @@
 
 ## A weekly social data project in R
 
+This is my forked repo of a collective project, which info is below. I made to get challenged and publish my own related work on occasion, however small it is. I only dedicate a couple of hours each week to the weekly challenge, which is made for tidying data and/or viz practice, not for analysis. This is collective exercising, or data fitness if you will! 
+
+*Karine, January 27, 2019*
+
+
 A weekly data project aimed at the R ecosystem. An emphasis will be placed on understanding how to summarize and arrange data to make meaningful charts with `ggplot2`, `tidyr`, `dplyr`, and other tools in the `tidyverse` ecosystem.
 
 ***
